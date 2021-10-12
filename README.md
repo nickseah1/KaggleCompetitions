@@ -1,4 +1,4 @@
-# KaggleCompetitions
-Repository of Kaggle related Data Science Projects
+# Titanic Survival Prediction
 
-# Here is a collection of Data Science Projects from Kaggle
+- The purpose of the project is to predict if a passenger on the titanic based on features such as age, family members on board, and ticket class.
+- We attempted to use a Random Forest Classifier and MLPClassifier
